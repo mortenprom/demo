@@ -1,0 +1,330 @@
+{
+	"id": "7286d750-a7ad-4f11-a3f9-8529daff7971",
+	"createdAt": "2025-08-29T19:44:45.184Z",
+	"createdBy": "morten@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/mortenprom/demo",
+		"branch": "main"
+	},
+	"name": "prom-demo",
+	"description": "The Last Prom",
+	"ver": "25.09.02.2344",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "e1fc3922-3ddf-441f-984f-c838ba60151a",
+			"description": null,
+			"name": "prom-demo-text-only"
+		},
+		{
+			"id": "e0d9ee21-eabb-48c8-8174-9dbf3e7f22c0",
+			"description": "A striking wading bird with gorgeous pink and rose-colored plumage that intensifies with age. These elegant birds get their distinctive coloration from carotenoid pigments in their diet of crustaceans and algae.",
+			"name": "prom-demo-image-rose"
+		},
+		{
+			"id": "d44a7c59-e8b3-4346-b22c-085d6ddad863",
+			"description": "During breeding season, male American Goldfinches transform into brilliant yellow gems with striking black caps and wings. These acrobatic seed-eaters are particularly fond of thistle and sunflower seeds.",
+			"name": "prom-demo-image-yellow"
+		},
+		{
+			"id": "d11eca80-babe-4c23-96a6-4dd383837c79",
+			"description": "Male Anna's Hummingbirds feature an iridescent rose-pink to reddish head and throat. These tiny powerhouses are capable of hovering, flying backwards, and performing spectacular diving displays during courtship.",
+			"name": "prom-demo-icon-image-pastel-plum"
+		},
+		{
+			"id": "cdf6c637-e580-4c90-add2-0fd468ec56da",
+			"description": null,
+			"name": "prom-demo-title-text"
+		},
+		{
+			"id": "cb0bfc5b-6ad1-4db0-b017-183cd3e408a1",
+			"description": "Content Only",
+			"name": "prom-demo-content-only"
+		},
+		{
+			"id": "b88d9507-c049-4e8e-b55b-1e91b5789cf4",
+			"description": "Considered one of the most beautiful birds in the world, the Resplendent Quetzal showcases brilliant emerald green plumage with iridescent qualities. Males feature extraordinarily long tail feathers that can reach over two feet in length.",
+			"name": "prom-demo-image-green"
+		},
+		{
+			"id": "aceb7da9-e735-4d14-b9cf-7bcf4c72328f",
+			"description": "The largest swallow in North America, Purple Martins display deep purple-blue iridescent plumage. These aerial acrobats spend most of their lives in flight, catching insects on the wing.",
+			"name": "prom-demo-image-purple"
+		},
+		{
+			"id": "ac4d1a84-baac-47a9-b377-9e4f8ed525e8",
+			"description": "With their distinctive blue-gray plumage and prominent crest, Belted Kingfishers are expert fishers that dive headfirst into water to catch fish. They're known for their loud, rattling call.",
+			"name": "prom-demo-icon-image-pastel-cyan"
+		},
+		{
+			"id": "a97b7954-9f33-4cc7-9034-2bdb3db73270",
+			"description": "With their distinctive blue-gray plumage and prominent crest, Belted Kingfishers are expert fishers that dive headfirst into water to catch fish. They're known for their loud, rattling call.",
+			"name": "prom-demo-image-cyan"
+		},
+		{
+			"id": "9c11c8dc-dc64-49ff-9976-1599cc8c1590",
+			"description": "During breeding season, male American Goldfinches transform into brilliant yellow gems with striking black caps and wings. These acrobatic seed-eaters are particularly fond of thistle and sunflower seeds.",
+			"name": "prom-demo-icon-image-pastel-yellow"
+		},
+		{
+			"id": "7494698d-c235-4da4-a7ef-7830b2a42fce",
+			"description": "The male Baltimore Oriole displays brilliant orange and black plumage. These skilled weavers create intricate hanging nests and are known for their sweet, whistling songs and love of nectar and fruit.",
+			"name": "prom-demo-icon-image-pastel-orange"
+		},
+		{
+			"id": "6a4a371e-f75a-436f-86a8-41e0022b20b4",
+			"description": "A striking wading bird with gorgeous pink and rose-colored plumage that intensifies with age. These elegant birds get their distinctive coloration from carotenoid pigments in their diet of crustaceans and algae.",
+			"name": "prom-demo-icon-image-pastel-rose"
+		},
+		{
+			"id": "3e38f222-93c9-48c9-8954-9e8bcf0deda3",
+			"description": "",
+			"name": "prom-demo-status-only"
+		},
+		{
+			"id": "387eec05-730e-4ee4-a244-70264f4e4022",
+			"description": "Considered one of the most beautiful birds in the world, the Resplendent Quetzal showcases brilliant emerald green plumage with iridescent qualities. Males feature extraordinarily long tail feathers that can reach over two feet in length.",
+			"name": "prom-demo-icon-image-pastel-green"
+		},
+		{
+			"id": "282843a5-ee7a-421a-a4e8-74a2c3580818",
+			"description": "The male Baltimore Oriole displays brilliant orange and black plumage. These skilled weavers create intricate hanging nests and are known for their sweet, whistling songs and love of nectar and fruit.",
+			"name": "prom-demo-image-orange"
+		},
+		{
+			"id": "200467aa-061e-4e58-b8b2-73cbf403f0e1",
+			"description": "Male Anna's Hummingbirds feature an iridescent rose-pink to reddish head and throat. These tiny powerhouses are capable of hovering, flying backwards, and performing spectacular diving displays during courtship.",
+			"name": "prom-demo-image-plum"
+		},
+		{
+			"id": "133e9e52-cdb2-4888-8e96-3696a2c86541",
+			"description": "Intelligent and adaptable, Blue Jays display stunning blue, white, and black plumage with a distinctive crest. These corvids are known for their complex social behaviors and ability to mimic other birds' calls.",
+			"name": "prom-demo-icon-image-pastel-blue"
+		},
+		{
+			"id": "0ad1796a-7760-4cea-a95d-b08fe827d25a",
+			"description": "Intelligent and adaptable, Blue Jays display stunning blue, white, and black plumage with a distinctive crest. These corvids are known for their complex social behaviors and ability to mimic other birds' calls.",
+			"name": "prom-demo-image-blue"
+		},
+		{
+			"id": "0909d71b-3b67-49cd-aa3c-b2c7698baf0f",
+			"description": "The largest swallow in North America, Purple Martins display deep purple-blue iridescent plumage. These aerial acrobats spend most of their lives in flight, catching insects on the wing.",
+			"name": "prom-demo-icon-image-pastel-purple"
+		},
+		{
+			"id": "06767f07-8015-4eab-8eed-f963603da734",
+			"description": null,
+			"name": "prom-demo-title-only"
+		}
+	],
+	"tile_layout": [
+		{
+			"id": "f7c721c0-86cd-4d75-b37e-2d9120dc2d04",
+			"NAME": "prom-demo-medium"
+		},
+		{
+			"id": "f3647a51-3cb8-4c02-b84b-bab9a1ffeca9",
+			"NAME": "prom-demo-narrow"
+		},
+		{
+			"id": "ee84b8a2-26c6-44f8-8a64-70e69b7340fe",
+			"NAME": "prom-demo-darken-50"
+		},
+		{
+			"id": "cb407ae5-18ae-4a00-bdab-4a5cc53f845e",
+			"NAME": "prom-demo-content-padding-xlarge"
+		},
+		{
+			"id": "c2f40d70-cbf7-4c06-993d-315c0bd91e1f",
+			"NAME": "prom-demo-icon-shape-rounded"
+		},
+		{
+			"id": "7ee74490-dd49-4fcf-b80d-20a4c59df4f9",
+			"NAME": "prom-demo-tall"
+		},
+		{
+			"id": "7825d4e0-b6ed-4bb8-9dca-b259b983d31a",
+			"NAME": "prom-demo-tiny"
+		},
+		{
+			"id": "765b670a-b0f2-4761-aee5-76eacb489f48",
+			"NAME": "prom-demo-clickable"
+		},
+		{
+			"id": "6ba9ce33-77b6-467a-ba26-405acce80ab2",
+			"NAME": "prom-demo-wide"
+		},
+		{
+			"id": "67005d3e-9e3d-40df-b7ee-451abe02a4d5",
+			"NAME": "prom-demo-icon-shape-circle"
+		},
+		{
+			"id": "5c75f5af-cbbb-4cab-a65a-d0c9969df6ef",
+			"NAME": "prom-demo-icon-shape-square"
+		},
+		{
+			"id": "27e7ec9a-f105-4631-9e43-ece48763af6f",
+			"NAME": "prom-demo-short"
+		},
+		{
+			"id": "0d4aa3ed-e2e9-4fbc-8a6a-6e2e6a3b0b1c",
+			"NAME": "prom-demo-skinny"
+		}
+	],
+	"category": [
+		{
+			"id": "fde63353-52ea-4d53-84a3-a088d87f3a0f",
+			"description": null,
+			"name": "prom-demo-tall"
+		},
+		{
+			"id": "f4b002a3-df23-4639-a8a9-1eabbae8a20a",
+			"description": null,
+			"name": "prom-demo-short"
+		},
+		{
+			"id": "dca82e39-0fc1-46f8-8a84-0bdc2449fc6c",
+			"description": null,
+			"name": "prom-demo-tiny"
+		},
+		{
+			"id": "d0eb923d-5ce1-4fb9-b243-5fa165932702",
+			"description": null,
+			"name": "prom-demo-text"
+		},
+		{
+			"id": "c8900a30-a096-418b-acb5-7b97695f9560",
+			"description": null,
+			"name": "prom-demo-icon"
+		},
+		{
+			"id": "c31fde5e-0a4b-4f25-b6cc-11468c2de696",
+			"description": null,
+			"name": "prom-demo-tiny-skinny"
+		},
+		{
+			"id": "a1bf396f-3ed5-40a1-8ed1-900fda35f082",
+			"description": null,
+			"name": "prom-demo-image-top"
+		},
+		{
+			"id": "9c012070-3c82-40d6-8521-ba7df87b0488",
+			"description": null,
+			"name": "prom-demo-image"
+		},
+		{
+			"id": "9aba27b2-1613-49e7-979e-0141410f3ee8",
+			"description": null,
+			"name": "prom-demo-icon-clickable"
+		},
+		{
+			"id": "944a43b7-2731-4ce6-a7ca-8ec52cce8cb4",
+			"description": null,
+			"name": "prom-demo-image-inline"
+		},
+		{
+			"id": "8ee2961d-21b8-4755-9b30-8d726df5f6a8",
+			"description": null,
+			"name": "prom-demo-short-narrow"
+		},
+		{
+			"id": "8bab7d8a-c60c-4880-978b-faf7c6e01eb4",
+			"description": null,
+			"name": "prom-demo-wide"
+		},
+		{
+			"id": "7df374b3-ba98-4cb2-8786-8c87ed5152a2",
+			"description": null,
+			"name": "prom-demo-image-background"
+		},
+		{
+			"id": "75d83bd4-00ee-4963-9b4a-543b6e087de0",
+			"description": null,
+			"name": "prom-demo-size"
+		},
+		{
+			"id": "75149b03-d8b0-48f5-a459-f7d5b4c205f7",
+			"description": null,
+			"name": "prom-demo-icon-navbar"
+		},
+		{
+			"id": "70eb02b9-9e90-42d6-aef7-993ba95c3073",
+			"description": null,
+			"name": "prom-demo-medium"
+		},
+		{
+			"id": "625729da-6e89-4a2e-945c-0ca278a5ca5f",
+			"description": null,
+			"name": "prom-demo-narrow"
+		},
+		{
+			"id": "58f6e5f3-abee-483d-9c21-42d29a6d9d63",
+			"description": null,
+			"name": "prom-demo-section-multi-column"
+		},
+		{
+			"id": "3718e57f-992f-465c-a72c-d5d483cb432d",
+			"description": null,
+			"name": "prom-demo-icon-sidebar"
+		},
+		{
+			"id": "058575ca-f313-4119-a643-04e0b674927e",
+			"description": null,
+			"name": "prom-demo-skinny"
+		}
+	],
+	"tilegroup_layout": [],
+	"launchpad": [
+		{
+			"id": "b396e551-40f6-4fb4-935d-7f89c79c13f2",
+			"name": "prom-demo",
+			"description": null
+		}
+	],
+	"launchpad_layout": [
+		{
+			"id": "ad7a88ed-52c4-4efb-814f-fee680c897e2",
+			"NAME": "prom-demo-light",
+			"DESCR": null
+		},
+		{
+			"id": "8f94e5f1-3019-4b59-9a08-68afc70753db",
+			"NAME": "prom-demo-dark",
+			"DESCR": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": []
+}

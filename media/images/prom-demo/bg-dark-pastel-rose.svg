@@ -1,0 +1,6 @@
+<svg width="280" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="160" fill="#8B5A6B"/>
+  <path d="M140 80 Q160 60 180 80 Q160 100 140 80 Q120 60 100 80 Q120 100 140 80" fill="none" stroke="#A86B7A" stroke-width="3"/>
+  <path d="M140 80 Q170 50 200 80 Q170 110 140 80 Q110 50 80 80 Q110 110 140 80" fill="none" stroke="#A86B7A" stroke-width="2"/>
+  <path d="M140 80 Q180 40 220 80 Q180 120 140 80 Q100 40 60 80 Q100 120 140 80" fill="none" stroke="#A86B7A" stroke-width="1"/>
+</svg>
