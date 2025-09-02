@@ -29,6 +29,11 @@
 	"api_group": [],
 	"tile": [
 		{
+			"id": "f584fbf5-4185-4001-8bef-e53ba3aea830",
+			"description": "Renewable Energy Pioneer Vattenfall Streamlines Workflows and Increases Predictable Maintenance Capabilities.",
+			"name": "prom-demo-neptune-wattenfall"
+		},
+		{
 			"id": "e1fc3922-3ddf-441f-984f-c838ba60151a",
 			"description": null,
 			"name": "prom-demo-text-only"
@@ -156,6 +161,10 @@
 			"NAME": "prom-demo-icon-shape-rounded"
 		},
 		{
+			"id": "83d0e663-e876-4a1b-a497-c0fab4d01e1e",
+			"NAME": "prom-demo-neptune-vattenfall"
+		},
+		{
 			"id": "7ee74490-dd49-4fcf-b80d-20a4c59df4f9",
 			"NAME": "prom-demo-tall"
 		},
@@ -198,6 +207,11 @@
 			"id": "f4b002a3-df23-4639-a8a9-1eabbae8a20a",
 			"description": null,
 			"name": "prom-demo-short"
+		},
+		{
+			"id": "e412825f-fde8-4af9-bafa-48434eb9b52e",
+			"description": null,
+			"name": "prom-demo-neptune"
 		},
 		{
 			"id": "dca82e39-0fc1-46f8-8a84-0bdc2449fc6c",
