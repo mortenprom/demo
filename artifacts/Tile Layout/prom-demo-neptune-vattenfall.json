@@ -3,7 +3,7 @@
 	"createdAt": "2025-09-02T17:08:52.061Z",
 	"createdBy": "morten@neptune-software.com",
 	"NAME": "prom-demo-neptune-vattenfall",
-	"ver": "25.09.03.0019",
+	"ver": "25.09.03.0044",
 	"TILE_BACK": null,
 	"TILE_BORDER": null,
 	"TILE_HOVER": null,
@@ -68,7 +68,7 @@
 	"BG_MASK_CUSTOM": null,
 	"TILE_CONTENT_MARGIN": null,
 	"TILE_CONTENT_PADDING": "2rem",
-	"TILE_ICON_SIZE": ".5rem",
+	"TILE_ICON_SIZE": "1rem",
 	"package": "7286d750-a7ad-4f11-a3f9-8529daff7971",
 	"LAYOUT_HIERARCHY": []
 }

@@ -8,7 +8,7 @@
 	},
 	"name": "prom-demo",
 	"description": "The Last Prom",
-	"ver": "25.09.02.2344",
+	"ver": "25.09.03.0044",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
